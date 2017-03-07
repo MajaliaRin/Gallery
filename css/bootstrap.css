@@ -1351,11 +1351,13 @@ p {
 }
 
 .lead4 {
-  margin-bottom: 20px;
- 
-  color: #15317e;
+   margin-bottom: 20px;
+  margin-left: 120px;
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 1.4;
+  color: black;
   font-family: 'Times New Roman';
-  text-align: center;
 }
 @media (min-width: 768px) {
   .lead {
