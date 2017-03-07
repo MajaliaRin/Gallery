@@ -1134,11 +1134,11 @@ img {
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
   display: block;
-  max-width: 500%;
+  max-width: 200%;
   height: auto;
-  width: 200%;
-  height: auto;
-  margin-left: 20px;
+  width: auto;
+ 
+  
 }
 
 .img-responsive,
@@ -5081,9 +5081,9 @@ a.badge:focus {
 
 .thumbnail2 {
   display: block;
-  padding: 100px;
+  padding: 10px;
   margin-bottom: 20px;
-  margin-left: 200px;
+ 
   line-height: 1.42857143;
   background-color: #fff;
   border: 1px solid #ddd;
